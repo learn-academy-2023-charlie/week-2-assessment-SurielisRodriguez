@@ -112,6 +112,7 @@ const indexVowel = (element) => {
       }
     }
   }
+  
 console.log(indexVowel(vowelTester1));
 console.log(indexVowel(vowelTester2));
 console.log(indexVowel(vowelTester3));

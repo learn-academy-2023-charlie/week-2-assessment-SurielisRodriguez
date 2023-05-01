@@ -54,4 +54,5 @@ Research and define the following terms to the best of your ability.
 
 4. React props: this is in reference to properties and can be used to pass data from the parent component to the child component, which cannot make or modify data.
 
+
 5. DOM events: DOM is the Document object model and dom events are actions that a user can touch on a web page. 

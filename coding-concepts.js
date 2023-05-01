@@ -64,5 +64,6 @@ class Learn {
 const learnStudent = new Learn("George")
 console.log(learnStudent)
 
+
 // a) Your answer: THis will assign the name "george" to the student. I dont think will log correctly though due to the fact that we are referencing something that was not defined
 // b) Verify and explain: This returns an output of Learn { student: 'George', cohort: 'Charlie', year: 2023 } 
